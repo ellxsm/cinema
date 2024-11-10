@@ -18,5 +18,5 @@ Este projeto é uma implementação de uma página de cinema utilizando HTML e C
 
 ----
 
-**Curso:** HTML e CSS para Iniciante - Origamid
+**Curso:** HTML e CSS para Iniciante - Origamid <br>
 **Exercício Concluído em: 09/11/24** ✅
