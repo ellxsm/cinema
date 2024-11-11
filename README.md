@@ -5,16 +5,8 @@ Página de cinema utilizando HTML e CSS, conforme os requisitos de um exercício
 ## 📂 Estrutura do Projeto
 
 - **index.html**: Página principal com links para os estados.
-- **estados/rj.html**: Página com filmes do Rio de Janeiro.
-- **estados/sp.html**: Página com filmes de São Paulo.
+- **estados/**: Pasta com pages de São Paulo e Rio de Janeiro.
 - **styles/main.css**: Arquivo de estilo para personalizar a aparência, incluindo a formatação de texto e cores de acordo com o horário de exibição.
-
-## 💡 Funcionalidades
-
-- Exibição de filmes com horários para hoje e amanhã.
-- Links entre as páginas de cada estado e a página principal.
-- Estilos personalizados para títulos, links e parágrafos.
-- Alteração de cores para filmes com exibição hoje (darkred) e amanhã (darkblue).
 
 ----
 
